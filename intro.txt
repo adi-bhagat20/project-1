@@ -1,0 +1,20 @@
+End-to-End ML project.
+
+Set Up project with GitHub.
+1) Data Ingestion
+2) Data Transformation
+3) Model Trainer
+4) Model Evaluation
+5) Model Deployment
+
+CI/CD Pipelines - GitHub Actions
+Deployment- AWS
+
+Agenda : 
+
+1- Set up the github{Repository}
+a) new env
+b) setup.py
+c) requirements.txt
+
+2- src folder and package building
