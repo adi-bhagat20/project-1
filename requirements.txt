@@ -3,7 +3,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-ipykernels
+ipykernel
 xgboost
 catboost
-# -e .
+-e .
